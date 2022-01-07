@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devitsan
 - 👀 I’m interested in Java, Gradle, things that make my life as a developer easier
-- 🌱 I’m currently learning Argo Workflow and Events, AWS
-- 💞️ I’m looking to collaborate on whatever I like
+- 🌱 I’m currently learning Argo Workflows and Events, AWS
+- 💞️ I’m not looking to collaborate on anything special right now
 - 📫 How to reach me shoev88@outlook.com
 
 <!---
